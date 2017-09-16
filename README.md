@@ -3,10 +3,10 @@ A set of TensorFlow Tutorials in Jupyter Notebooks for the ISR reading group
 
 # Requirements
 	
-	- Python 3.6
-	- Anaconda
-	- TensorFlow
-	- Numpy
+- Python 3.6
+- Anaconda
+- TensorFlow
+- Numpy
 
 # Order of Tutorials
 
