@@ -8,6 +8,11 @@ A set of TensorFlow Tutorials in Jupyter Notebooks for the ISR reading group
 	- TensorFlow
 	- Numpy
 
+# Order of Tutorials
+
+- TensorFlow Structure - Tensors, Operations, Nodes and Graphs
+- (In construction...)
+
 # To install on Ubuntu 16.04 from scratch
 
 ```bash
@@ -45,3 +50,7 @@ $ conda install nb_conda
 ```bash
 $ jupyter notebook
 ```
+
+
+
+
