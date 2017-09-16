@@ -27,7 +27,7 @@ $ source ~/.bashrc
 # Create a conda environment
 
 ```bash
-$ conda create --name tF-tut python=3.6
+$ conda create --name tf-tut python=3.6
 ```
 ```bash
 $ source activate tf-tut
