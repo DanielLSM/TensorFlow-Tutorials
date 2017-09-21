@@ -48,6 +48,14 @@ $ conda install nb_conda
 ```
 
 ```bash
+$ git clone https://github.com/DanielLSM/TensorFlow-Tutorials.git
+```
+
+```bash
+$ cd && cd TensorFlow-Tutorials
+```
+
+```bash
 $ jupyter notebook
 ```
 
