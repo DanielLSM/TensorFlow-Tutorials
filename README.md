@@ -11,7 +11,8 @@ A set of TensorFlow Tutorials in Jupyter Notebooks for the ISR reading group
 # Order of Tutorials
 
 - TensorFlow Structure - Tensors, Operations, Nodes and Graphs
-- (In construction...)
+- Polinomial Regression
+- Deep Reinforcement Learning
 
 # To install on Ubuntu 16.04 from scratch
 

@@ -160,5 +160,6 @@ class DDPG_agent(object):
     def fetch_all_tensors(self):
         lista = tf.contrib.graph_editor.get_tensors(tf.get_default_graph())
         print('A lista tem tamanho: ',len(lista))
+        return lista
 
 
