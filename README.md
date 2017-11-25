@@ -1,5 +1,5 @@
 # TensorFlow-Tutorials
-A set of TensorFlow Tutorials in Jupyter Notebooks for the ISR reading group
+A set of TensorFlow Tutorials in Jupyter Notebooks for the ISR reading group and ISR robotics team
 
 # Requirements
 	
